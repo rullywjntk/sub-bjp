@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moovie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Title</string>
+    <string name="release_date_">Release Date :</string>
+
+    <string name="overview">Overview :</string>
+    <string name="description">Description</string>
+    <string name="detail">Details</string>
+    <string name="season">Season :</string>
+</resources>
